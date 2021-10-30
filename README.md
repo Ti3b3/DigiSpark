@@ -5,4 +5,4 @@
 
 And here's the setup for the circuit
 
-![Digisparkattiny85](https://raw.githubusercontent.com/Tiebeke/DigiSpark/main/images/DigisparkAttiny85.PNG?token=AP7H7DNDHSIEDXYHNE6VSZ3BPVWVA)
+![Digisparkattiny85](https://github.com/Tiebeke/DigiSpark/blob/main/images/DigisparkAttiny85.PNG)
